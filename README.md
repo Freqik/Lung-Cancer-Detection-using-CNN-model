@@ -234,9 +234,16 @@ Body: image=<CT_Scan_Image>
 
 ---
 
-## � License
+## 🤝 Credits & Acknowledgements
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- **Dataset**: [CT Scan Images for Lung Cancer](https://www.kaggle.com/datasets/dishantrathi20/ct-scan-images-for-lung-cancer) by **Dishant Rathi**.
+- **Special Thanks**: To the open-source community for the tools and frameworks used in this project.
+
+---
+
+## 📞 Contact & Portfolio
+
+**Ready to contribute to healthcare innovation?** Connect with me to discuss how AI can transform medical diagnostics.
 
 ---
 <div align="center">
