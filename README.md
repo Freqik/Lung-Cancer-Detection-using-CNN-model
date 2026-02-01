@@ -71,9 +71,12 @@ graph TB
 - **Real-Time Inference**: Sub-second analysis with probability-based scoring
 
 ### 💬 **Gemini-Powered Health Assistant**
-- **Educational Queries**: Natural language processing for lung cancer information
-- **Safety-First Design**: Strict prompt engineering with medical disclaimers
-- **24/7 Availability**: Automated health awareness support
+- **Dedicated AI Interface**: Full-screen, immersive chat experience (`/chat.html`)
+- **Smart Model Discovery**: Automatically selects the best available Google Gemini model (Pro/Flash) based on API key permissions
+- **Context-Aware Responses**: System prompts designed for empathetic, educational health guidance
+- **Robust Error Handling**: Real-time feedback for API quotas, connectivity, and authentication issues
+- **Markdown Rendering**: Rich text formatting for clear, readable medical explanations
+- **Safety-First Design**: Strict safety guardrails with mandatory medical disclaimers
 
 ### 🛡️ **Enterprise-Grade Security**
 - **Zero Image Storage**: Temporary file handling with automatic cleanup
